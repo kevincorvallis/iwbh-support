@@ -6,7 +6,7 @@ This repository hosts the support and privacy resources for the **IWBH** iOS app
 
 - [Support Page](https://kevincorvallis.github.io/iwbh-support/support)
 - [Privacy Policy](https://kevincorvallis.github.io/iwbh-support/privacy)
-- [Terms and Conditions](https://kevincorvallis.github.io/iwbh-support/t&C)
+- [Terms and Conditions](https://kevincorvallis.github.io/iwbh-support/termsandconditions)
 
 ## Contact
 
